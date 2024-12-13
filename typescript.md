@@ -78,7 +78,7 @@ Run the following command in your terminal to download TypeScript:
 
 *Node.js required to run the package*
 
-###### Typescript Strict
+# Typescript Strict Mode
 
 What is Strict mode?
 
