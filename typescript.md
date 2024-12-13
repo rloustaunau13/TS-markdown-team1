@@ -80,7 +80,7 @@ Run the following command in your terminal to download TypeScript:
 
 ##### Typescript Strict
 
-Why use Typescript
+Why use Strict Mode
 To reduce runtime bugs.
 To write robust and maintainable code.
 To align with TypeScript's philosophy of strong typing.
