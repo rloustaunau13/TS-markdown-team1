@@ -89,8 +89,11 @@ To align with TypeScript's philosophy of strong typing.
 Benefits
 
 Improved Type Safety: Prevents common type-related errors.
+
 Early Error Detection: Catch mistakes during development.
+
 Maintainable Code: Encourages robust and consistent practices.
+
 Better Refactoring: Safer refactor workflows with fewer surprises.
 
 Drawbacks
