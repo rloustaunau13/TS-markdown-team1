@@ -82,7 +82,8 @@ Run the following command in your terminal to download TypeScript:
 
 What is Strict mode?
 
--Strict Mode in TypeScript enforces stricter rules during compilation to catch potential errors early and improve code quality. It combines multiple compiler options under the --strict flag.
+<p>Strict Mode in TypeScript enforces stricter rules during compilation to catch potential errors early and improve code quality. It combines multiple compiler options under the --strict flag.
+</p>
 
  Why use Strict Mode?
  <ul>
