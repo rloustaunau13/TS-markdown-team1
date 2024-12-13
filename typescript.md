@@ -102,9 +102,9 @@ What is Strict mode?
 Drawbacks:
 <ul>
  <li>
--Initial configuration may require refactoring.
+Initial configuration may require refactoring.
   </li>
   <li>
--Handling legacy codebases can be time-consuming.
+Handling legacy codebases can be time-consuming.
   </li>
 </ul>
