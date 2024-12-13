@@ -17,6 +17,12 @@ Javascript has a number of strange quirks such as:
 Typescript will produce compiler errors alerting the author in the scenorios where a behaviour is technically legal within javascript but 
 may produce unexpected/unwanted behaviour. 
 
+## Target
+
+Sometimes, the author might deploy their code to older environments.
+In which case, the target setting allows the author to downlevel JS features to whichever version the author specifies.
+The author may also choose to adjust for a higher target setting if they know that their code is fit to run in newer environments.
+With target, code can be run in older or newer environments without having to rewrite it manually.4  
 
 ## TypeScript Compiler and Installation
 
