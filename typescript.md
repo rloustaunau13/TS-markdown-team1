@@ -82,24 +82,23 @@ Run the following command in your terminal to download TypeScript:
 
 What is Strict mode?
 
-Strict Mode in TypeScript enforces stricter rules during compilation to catch potential errors early and improve code quality. It combines multiple compiler options under the --strict flag.
+-Strict Mode in TypeScript enforces stricter rules during compilation to catch potential errors early and improve code quality. It combines multiple compiler options under the --strict flag.
 
-- Why use Strict Mode?
-To reduce runtime bugs.
-To write robust and maintainable code.
-To align with TypeScript's philosophy of strong typing.
+ Why use Strict Mode?
+-To reduce runtime bugs.
+-To write robust and maintainable code.
+-To align with TypeScript's philosophy of strong typing.
 
 
-- Benefits:
-Improved Type Safety: Prevents common type-related errors.
+ Benefits:
+-Improved Type Safety: Prevents common type-related errors.
 
-Early Error Detection: Catch mistakes during development.
+-Early Error Detection: Catch mistakes during development.
 
-Maintainable Code: Encourages robust and consistent practices.
+-Maintainable Code: Encourages robust and consistent practices.
 
-Better Refactoring: Safer refactor workflows with fewer surprises.
+-Better Refactoring: Safer refactor workflows with fewer surprises.
+Drawbacks:
 
-- Drawbacks:
-
-Initial configuration may require refactoring.
-Handling legacy codebases can be time-consuming.
+-Initial configuration may require refactoring.
+-Handling legacy codebases can be time-consuming.
