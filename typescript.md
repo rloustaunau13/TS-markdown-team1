@@ -78,3 +78,18 @@ Run the following command in your terminal to download TypeScript:
 
 *Node.js required to run the package*
 
+##### Typescript Strict
+Why use Typescript
+To reduce runtime bugs.
+To write robust and maintainable code.
+To align with TypeScript's philosophy of strong typing.
+
+Benefits
+Improved Type Safety: Prevents common type-related errors.
+Early Error Detection: Catch mistakes during development.
+Maintainable Code: Encourages robust and consistent practices.
+Better Refactoring: Safer refactor workflows with fewer surprises.
+
+Drawbacks
+Initial configuration may require refactoring.
+Handling legacy codebases can be time-consuming.
