@@ -7,12 +7,13 @@ This is so that it is easy to transition between the languages without worrying 
 ## Javascript Vs TypeScript
 
 Javascript has a number of strange quirks such as:
-    - Allowing the referencing of non-existent properties
-    - Its equality operator coercing operands
-    - Math.min() is greater than Math.max()
-    - The expression true + true + true evaluates to 3
-    - NaN is not equal to NaN
-    - Many, many more
+
+- Allowing the referencing of non-existent properties
+- Its equality operator coercing operands
+- Math.min() is greater than Math.max()
+- The expression true + true + true evaluates to 3
+- NaN is not equal to NaN
+- Many, many more
 
 Typescript will produce compiler errors alerting the author in the scenorios where a behaviour is technically legal within javascript but 
 may produce unexpected/unwanted behaviour. 
