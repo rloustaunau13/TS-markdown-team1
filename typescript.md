@@ -91,14 +91,15 @@ What is Strict mode?
 
 
  Benefits:
- <p>
+ <li>
 -Improved Type Safety: Prevents common type-related errors.
-</p>
+
 -Early Error Detection: Catch mistakes during development.
 
 -Maintainable Code: Encourages robust and consistent practices.
 
 -Better Refactoring: Safer refactor workflows with fewer surprises.
+</li>
 Drawbacks:
 
 -Initial configuration may require refactoring.
