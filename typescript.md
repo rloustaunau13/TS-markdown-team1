@@ -101,6 +101,10 @@ What is Strict mode?
 </ul>
 Drawbacks:
 <ul>
+ <li>
 -Initial configuration may require refactoring.
+  </li>
+  <li>
 -Handling legacy codebases can be time-consuming.
+  </li>
 </ul>
