@@ -69,16 +69,35 @@ You can configure the compiler via a *tsconfig.json* file which allows you to:
 Run the following command in your terminal to create a default tsconfig.json file
 >tsc --init
 
-##### STRICT MODE
- What is Strict Mode?
-Strict Mode in TypeScript enforces stricter rules during compilation to catch potential errors early and improve code quality. It combines multiple compiler options under the --strict flag.
+##### Strict Mode
+What is Strict mode?
 
+<p>Strict Mode in TypeScript enforces stricter rules during compilation to catch potential errors early and improve code quality. It combines multiple compiler options under the --strict flag.
+</p>
 
-Benefits
-Improved Type Safety: Prevents common type-related errors.
-Early Error Detection: Catch mistakes during development.
-Maintainable Code: Encourages robust and consistent practices.
-Better Refactoring: Safer refactor workflows with fewer surprises.
+ Why use Strict Mode?
+ <ul>
+-To reduce runtime bugs.
+-To write robust and maintainable code.
+-To align with TypeScript's philosophy of strong typing.
+</ul>
+
+ Benefits:
+ <ul>
+-Improved Type Safety: Prevents common type-related errors.
+-Early Error Detection: Catch mistakes during development.
+-Maintainable Code: Encourages robust and consistent practices.
+-Better Refactoring: Safer refactor workflows with fewer surprises.
+</ul>
+Drawbacks:
+<ul>
+ <li>
+Initial configuration may require refactoring.
+  </li>
+  <li>
+Handling legacy codebases can be time-consuming.
+  </li>
+</ul>
 
 
 #### Installation 
